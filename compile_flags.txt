@@ -1,0 +1,11 @@
+-I
+/usr/avr/include
+
+-I
+./usbdrv/
+
+-I
+.
+
+-D
+__AVR_ATtiny88__

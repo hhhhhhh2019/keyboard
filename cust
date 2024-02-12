@@ -1,0 +1,43 @@
+default alphanumeric_keys
+
+xkb_symbols "cust" {
+	name[Group1]= "English (Custom)";
+
+	key <AB01> {[ q, Q ]};
+	key <AB02> {[ w, W ]};
+	key <AB03> {[ e, E ]};
+	key <AB04> {[ r, R ]};
+	key <AB05> {[ t, T ]};
+	key <AB06> {[ y, Y ]};
+	key <AB07> {[ u, U ]};
+	key <AB08> {[ i, I ]};
+	key <AB09> {[ o, O ]};
+	key <AB10> {[ p, P ]};
+	key <AC01> {[ a, A ]};
+	key <AC02> {[ s, S ]};
+	key <AC03> {[ d, D ]};
+	key <AC04> {[ f, F ]};
+	key <AC05> {[ g, G ]};
+	key <AC06> {[ h, H ]};
+	key <AC07> {[ j, J ]};
+	key <AC08> {[ k, K ]};
+	key <AC09> {[ l, L ]};
+	key <AC10> {[ z, Z ]};
+	key <AC11> {[ x, X ]};
+	key <AD01> {[ c, C ]};
+	key <AD02> {[ v, V ]};
+	key <AD03> {[ b, B ]};
+	key <AD04> {[ n, N ]};
+	key <AD05> {[ m, M ]};
+
+	key <AD06> {[ 1 ]};
+	key <AD07> {[ 2 ]};
+	key <AD08> {[ 3 ]};
+	key <AD09> {[ 4 ]};
+	key <AD10> {[ 5 ]};
+	key <AD11> {[ 6 ]};
+	key <AD12> {[ 7 ]};
+	key <AE01> {[ 8 ]};
+	key <AE02> {[ 9 ]};
+	key <AE03> {[ 0 ]};
+};
